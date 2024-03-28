@@ -1,5 +1,5 @@
 # Flask-Application-deployment-via-EKS
-In thi project, I have setup an EKs cluster and deployed a 2 tier application on it through K8s manifest files.
+In this project, I have setup an EKs cluster and deployed a 2 tier application on it through K8s manifest files.
 
 #Visit my blog for POCs
 
